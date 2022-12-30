@@ -1,14 +1,16 @@
 I’m a software engineer with experience +5 years that coming from Indonesia. In the past 4 years, I being a mentor in the team and Involved in the team issues and trying to find the solution or bring the team to find the solution by showing the path. More about me https://didikmulyadi.my.id/.
 
-#### My Apps
+#### My Creation
 
-- Creator of apidocs.id (on develop)
-- Creator of online-generator.id (on develop)
-- Creator of wedding-invitation.id (on develop)
+- Creator of apidocs.id (todo)
+- Creator of online-generator.id (todo)
+- Creator of wedding-invitation.id (todo)
+- Creator of VSCode Extension - [Directory Summary](https://github.com/didikmulyadi/VsCodeExt-Directory-Summary) (on-develop)
 
 #### Contribution
 
 - Main Contributor of https://github.com/Finitive-LLC/box-ui-elements
+- Main Contributor of https://github.com/HZN-one/flex
 
 #### Socials
 
