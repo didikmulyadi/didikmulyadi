@@ -5,6 +5,7 @@ I’m a software engineer with experience +5 years that coming from Indonesia. I
 - Creator of apidocs.id (todo)
 - Creator of online-generator.id (todo)
 - Creator of wedding-invitation.id (todo)
+- Creator of [Directory Summary Web](https://github.com/didikmulyadi/VsCodeExt-Directory-Summary-Web) (on-develop)
 - Creator of VSCode Extension - [Directory Summary](https://github.com/didikmulyadi/VsCodeExt-Directory-Summary) (on-develop)
 
 #### Contribution
