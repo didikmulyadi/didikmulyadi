@@ -1,4 +1,7 @@
-I’m a software engineer with experience +5 years that coming from Indonesia. In the past 4 years, I being a mentor in the team and Involved in the team issues and trying to find the solution or bring the team to find the solution by showing the path. More about me https://didikmulyadi.my.id/.
+I'm a software engineer with experience over 5 years in various industries. My role is flexible, I work as a full stack developer, so I have experience on many sides, including a frontend with React/Next, the Backend with Node/Go, and the cloud with Google Cloud.
+
+I created some boilerplate for development:
+1. Next.JS Boilerplate, [nextjs-pro](https://github.com/didikmulyadi/nextjs-pro)
 
 
 #### Socials
