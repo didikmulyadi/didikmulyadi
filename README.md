@@ -9,7 +9,7 @@ I created some boilerplates to develop an application: <br />
 ### NPM Package 🚀 
 I created some NPM Packages to help my work and also all of the software engineers: <br />
 
-🛠️ Nest API Docs with multiple UI [node-api-docs](https://github.com/didikmulyadi/node-api-docs).
+🛠️ Nest API Docs with multiple UI [nodejs-api-docs](https://github.com/didikmulyadi/nodejs-api-docs).
 
 
 ### Find Me 📖
