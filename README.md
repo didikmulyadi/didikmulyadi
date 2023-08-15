@@ -1,4 +1,4 @@
-I'm a software engineer with experience over 5 years in various industries. My role is flexible, I work as a full stack developer, so I have experience on many sides, including a frontend with React/Next, the Backend with Node/Go, and the cloud with Google Cloud.
+I'm a software engineer with experience <b>over 5 years</b> in various industries. My role is flexible, I work as a full stack developer, so I have experience on many sides, including a frontend with <b>React/Next</b>, the Backend with <b>Node/Go</b>, and the cloud with <b>Google Cloud</b>.
 
 ### Boilerplate 🚀
 I created some boilerplates to develop an application: <br />
