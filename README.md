@@ -1,4 +1,4 @@
-a professional software engineer with experience <b>more than 5 years</b>.  Already have a contribution to <b>America's and Australia's companies</b> in several industries with <b>huge satisfaction</b> from the clients and colleagues. 
+A professional software engineer with experience <b>more than 5 years</b>.  Already have a contribution to <b>America's and Australia's companies</b> in several industries with <b>huge satisfaction</b> from the clients and colleagues. 
 
 I come with a significant impact on the team, helping the team to achieve its goals through my natural problem-solving ability.
 
