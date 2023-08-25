@@ -1,8 +1,8 @@
-I'm a professional software engineer with experience <b>more than 5 years</b>.  Already have a contribution to <b>America's and Australia's companies</b> in several industries with <b>huge satisfaction</b> from the clients and colleagues. 
-
-My domain responsibility around frontend with <b>React.js/Next.js</b>, backend with <b>Node.js/Golang</b>, and the cloud with <b>Google Cloud Platform</b>.
+a professional software engineer with experience <b>more than 5 years</b>.  Already have a contribution to <b>America's and Australia's companies</b> in several industries with <b>huge satisfaction</b> from the clients and colleagues. 
 
 I come with a significant impact on the team, helping the team to achieve its goals through my natural problem-solving ability.
+
+My domain responsibility around frontend with <b>React.js/Next.js</b>, backend with <b>Node.js/Golang</b>, and the cloud with <b>Google Cloud Platform</b>.
 
 ### Boilerplate 🚀
 I created some boilerplates to develop an application: <br />
