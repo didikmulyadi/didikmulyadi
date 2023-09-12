@@ -2,7 +2,7 @@ A professional software engineer with experience <b>more than 5 years</b>.  Alre
 
 I come with a significant impact on the team, helping the team to achieve its goals through my natural problem-solving ability.
 
-My domain responsibility around frontend with <b>React.js/Next.js</b>, backend with <b>Node.js/Golang</b>, and the cloud with <b>Google Cloud Platform</b>.
+My domain responsibility around the front with <b>React.js/Next.js</b>, the back with <b>Node.js/Golang</b>, and the cloud with <b>Google Cloud Platform</b>.
 
 ### Boilerplate 🚀
 I created some boilerplates to develop an application: <br />
@@ -14,9 +14,10 @@ I created some boilerplates to develop an application: <br />
 I created some NPM Packages to help my work and also all of the software engineers: <br />
 
 ⚡️ Nest API Docs with multiple UI [nodejs-api-doc](https://github.com/didikmulyadi/nodejs-api-docs).
+⚡️ React Modal Images [react-modal-images](https://github.com/didikmulyadi/react-modal-images)
 
 ### Interview 
-I created some repositories to help you prepare the interview by overview the real test/question: <br />
+I created some repositories to help you prepare for the interview with an overview of the real test/question: <br />
 
 ⚡️ Frontend Interview Test/Question [frontend-interview](https://github.com/didikmulyadi/frontend-interview). (on progress)
 
