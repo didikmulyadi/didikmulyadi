@@ -8,7 +8,7 @@ My domain responsibility around the front with <b>React.js/Next.js</b>, the back
 I created some boilerplates to develop an application: <br />
 
 ⚡️ Next.JS Boilerplate, [nextjs-pro](https://github.com/didikmulyadi/nextjs-pro) <br />
-⚡️ NPM Package Creator, [npm-package-creator](https://github.com/didikmulyadi/npm-package-creator).
+⚡️ Node Package Creator, [node-package-creator](https://github.com/didikmulyadi/node-package-creator).
 
 ### NPM Package 🚀 
 I created some NPM Packages to help my work and also all of the software engineers: <br />
