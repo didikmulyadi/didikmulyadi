@@ -11,7 +11,7 @@ I created some boilerplates to develop an application: <br />
 
 ⚡️ Node Package Creator, [node-package-creator](https://github.com/didikmulyadi/node-package-creator).
 
-⚡️ React Package Creator, [node-package-creator](https://github.com/didikmulyadi/react-package-creator).
+⚡️ React Package Creator, [react-package-creator](https://github.com/didikmulyadi/react-package-creator).
 
 ### NPM Package 🚀 
 I created some NPM Packages to help my work and also all of the software engineers: <br />
@@ -19,6 +19,8 @@ I created some NPM Packages to help my work and also all of the software enginee
 ⚡️ Nest API Docs with multiple UI [nodejs-api-doc](https://github.com/didikmulyadi/nodejs-api-docs).
 
 ⚡️ React Modal Images [react-modal-images](https://github.com/didikmulyadi/react-modal-images)
+
+⚡️ Friendly API Doc UI [friendly-apidoc-ui](https://github.com/didikmulyadi/friendly-apidoc-ui) (on progress)
 
 ### Interview 
 I created some repositories to help you prepare for the interview with an overview of the real test/question: <br />
